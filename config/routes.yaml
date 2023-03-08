@@ -1,0 +1,4 @@
+homepage:
+    path: /{name}
+    controller: App\Controller\IndexController::home
+    methods: [GET]
